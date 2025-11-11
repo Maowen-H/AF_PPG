@@ -5,12 +5,5 @@
   Below is an outline of the overall structure of the code.
 </p>
 <code>
-
+  
 </code>
-  AF_PPG/
-  checkpoints # Save best weights
-  |-best_model.keras
-  logs # Save results
-  |-
-  &and;
-
