@@ -3,9 +3,9 @@
 This section outlines the two main steps required to set up the environment and run the model evaluation script.
 
 ## Step-by-Step Execution
-
-1.  **Install Conda Environment:** Run the setup script to create and install the necessary dependencies defined in `environment.yml`.
-2.  **Run Evaluation:** Execute the main script to load the trained model, predict on the test set, and generate evaluation reports.
+1. **Download Dataset to H5** Run `npz_to_h5.py`
+2.  **Install Conda Environment:** Run the setup script to create and install the necessary dependencies defined in `environment.yml`.
+3.  **Run Evaluation:** Execute the main script to load the trained model, predict on the test set, and generate evaluation reports.
 
 ---
 
